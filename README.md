@@ -1,6 +1,6 @@
 # About AlkosDev
 
-### Short intruduction
+### Short introduction
 
 Hello my name is Aleksy and I'm from Poland.
 
