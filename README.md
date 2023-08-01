@@ -1,14 +1,8 @@
-# About AlkosDev
+# About Me
 
 ### Short introduction
 
-Hello my name is Aleksy and I'm from Poland.
-
-I've been studying web development and programming for about 2 years.
-
-I've also been studying databases SQL/NoSQL like MariaDB or PostgresSQL.
-
-I can communicate with people in English and Polish but, I'm also learning Russian.
+I'm baby. :3
 
 ---
 ### Languages
@@ -17,10 +11,11 @@ I can communicate with people in English and Polish but, I'm also learning Russi
 
 * HTML5
 * CSS3
-* ReactJS
+* React
 * Javascript
 * Typescript
 * SASS/SCSS
+* C#
 
 </details>
 <details>
