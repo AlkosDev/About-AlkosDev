@@ -2,7 +2,7 @@
 
 ### Short introduction
 
-I'm baby. :3
+I'm baby :3
 
 ---
 ### Languages
@@ -15,7 +15,6 @@ I'm baby. :3
 * Javascript
 * Typescript
 * SASS/SCSS
-* C#
 
 </details>
 <details>
@@ -26,6 +25,7 @@ I'm baby. :3
 * C++
 * MariaDB
 * PostgresSQL
+* C#
 
 </details>
 
